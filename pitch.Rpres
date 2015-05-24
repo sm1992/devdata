@@ -1,0 +1,42 @@
+
+========================================================
+author: Saurabh Menon 
+date: `r date()`
+Shiny Presentation Pitch
+
+What?
+========================================================
+* This app uses the map and mapproj libraries.
+
+
+* It graphs data from the US census 2015[link in code]
+
+
+* It picks up some unusual criteria, not generally considered
+
+
+Which?
+========================================================
+It graphs four different demographic conditions graphed by state
+
+* Number of graduates
+* Number of US born citizens
+* Number of veterans
+* Number of unmarried males
+
+Why?
+========================================================
+Using the map() function in r for the first time!
+
+
+Easy to debug code when most changes are visual
+
+
+Easy transitions and Visually Aesthetic
+
+Next
+========================================================
+The future scope of this would be to dynamically load data 
+by tweaking parameters on any dataset. Graph at county, 
+country or continent level. Colour according to preference
+and annotate as you please!
